@@ -1,0 +1,1 @@
+# patika_turizm_acentesi
