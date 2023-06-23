@@ -1,1 +1,1 @@
-# patika_turizm_acentesi
+görsel programlama dersinde bize verilen proje ödevini patika'da verilen proje ile eşleştirdik. Sonuçta proje konumuzu biz seçebiliyorduk. sunum günü titrediğimden ve tıkantığımdan dolayı sunumu yapamamıştım çok utanmıştım :D Herneyse. Bu proje java OOP, java swing GUI ve JDBC içeren kapsamlı bir projedir. 
